@@ -1,0 +1,26 @@
+[
+  {
+    "id": "spirit",
+    "name": "Esprit",
+    "categories": ["sword", "shield"],
+    "runes": ["Tal", "Thul", "Ort", "Amn"]
+  },
+  {
+    "id": "malice",
+    "name": "Méchanceté",
+    "categories": ["meleeweapon"],
+    "runes": ["Ith", "El", "Eth"]
+  },
+  {
+    "id": "dream",
+    "name": "Rêve",
+    "categories": ["helm", "barbarianhelm", "shield"],
+    "runes": ["Io", "Jah", "Pul"]
+  },
+  {
+    "id": "grief",
+    "name": "Corbeau Gelé",
+    "categories": ["sword", "axe"],
+    "runes": ["Eth", "Tir", "Lo", "Mal", "Ral"]
+  }
+]

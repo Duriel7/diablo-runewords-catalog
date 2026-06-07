@@ -1,0 +1,90 @@
+[
+  {
+    "id": "sword",
+    "name": "Épée"
+  },
+  {
+    "id": "axe",
+    "name": "Hache"
+  },
+  {
+    "id": "mace",
+    "name": "Masse"
+  },
+  {
+    "id": "club",
+    "name": "Massue"
+  },
+  {
+    "id": "hammer",
+    "name": "Marteau"
+  },
+  {
+    "id": "spear",
+    "name": "Lance"
+  },
+  {
+    "id": "polearm",
+    "name": "Hache d'arme"
+  },
+  {
+    "id": "dagger",
+    "name": "Dague"
+  },
+  {
+    "id": "staff",
+    "name": "Bâton"
+  },
+  {
+    "id": "wand",
+    "name": "Baguette"
+  },
+  {
+    "id": "orb",
+    "name": "Orbe"
+  },
+  {
+    "id": "scepter",
+    "name": "Sceptre"
+  },
+  {
+    "id": "katar",
+    "name": "Katar"
+  },
+  {
+    "id": "amazonspear",
+    "name": "Lance d'Amazone"
+  },
+  {
+    "id": "shield",
+    "name": "Bouclier"
+  },
+  {
+    "id": "paladinshield",
+    "name": "Bouclier de Paladin"
+  },
+  {
+    "id": "helm",
+    "name": "Casque"
+  },
+  {
+    "id": "barbarianhelm",
+    "name": "Casque de Barbare"
+  },
+  {
+    "id": "bodyarmor",
+    "name": "Armure de corps"
+  },
+  {
+    "id": "missileweapon",
+    "name": "Arme à distance"
+  },
+  {
+    "id": "meleeweapon",
+    "name": "Arme de mêlée"
+  },
+  {
+    "id": "allweapons",
+    "name": "Toutes les armes"
+  }
+]
