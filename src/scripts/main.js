@@ -1,18 +1,5 @@
-const runewordsData = fetch("src/data/runewords.json");
-runewordsData
-  .then((response) => {
-    return response.json();
-  })
-  .then((runewords) => {
-    const container = document.getElementById("runewords-panel");
-    runewords.forEach((runeword) => {
-      const p = document.createElement("p");
-      p.textContent = runeword.name;
-      container.appendChild(p);
-    });
-  });
-
 const categoriesData = fetch("src/data/categories.json");
+
 categoriesData
   .then((response) => {
     return response.json();
@@ -23,5 +10,26 @@ categoriesData
       const p = document.createElement("p");
       p.textContent = category.name;
       container.appendChild(p);
+    });
+  });
+
+const runewordsData = fetch("src/data/runewords.json");
+
+runewordsData
+  .then((response) => {
+    return response.json();
+  })
+  .then((runewords) => {
+    const container = document.getElementById("runewords-panel");
+    const detailsContainer = document.getElementById("details-panel");
+    const details = document.createElement("div");
+    detailsContainer.appendChild(details);
+    runewords.forEach((runeword) => {
+      const button = document.createElement("button");
+      button.textContent = runeword.name;
+      container.appendChild(button);
+      button.addEventListener("click", () => {
+        details.innerHTML = `<h3>${runeword.name} :</h3><p>${runeword.runes.join(", ")}</p>`;
+      });
     });
   });
