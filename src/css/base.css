@@ -46,3 +46,9 @@ button {
 .sockets {
     flex: 0.2;
 }
+
+.rune-headers {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
