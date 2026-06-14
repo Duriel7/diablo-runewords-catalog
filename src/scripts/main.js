@@ -18,8 +18,9 @@ runeData
     return response.json();
   })
   .then((runes) => {
-    const container = document.getElementById("runes-panel");
     runes.forEach((rune) => {
+      const rarity = `${rune.rarity}-runes`;
+      const container = document.getElementById(rarity);
       const p = document.createElement("p");
       p.textContent = rune.name;
       container.appendChild(p);
