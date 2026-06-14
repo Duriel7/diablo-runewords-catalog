@@ -2,6 +2,14 @@ main {
     display: flex;
 }
 
+h2, h3 {
+    text-align: center;
+}
+
+button {
+    margin: 0.2rem;
+}
+
 .overtop {
     flex: 1;
     padding: 1rem;
@@ -37,9 +45,4 @@ main {
 
 .sockets {
     flex: 0.2;
-}
-
-h2, h3 {
-    text-align: center;
-    margin-bottom: 1rem;
 }
