@@ -1,0 +1,167 @@
+[
+  {
+    "id": "1",
+    "name": "El",
+    "rarity": "common"
+  },
+  {
+    "id": "2",
+    "name": "Eld",
+    "rarity": "common"
+  },
+  {
+    "id": "3",
+    "name": "Tir",
+    "rarity": "common"
+  },
+  {
+    "id": "4",
+    "name": "Nef",
+    "rarity": "common"
+  },
+  {
+    "id": "5",
+    "name": "Eth",
+    "rarity": "common"
+  },
+  {
+    "id": "6",
+    "name": "Ith",
+    "rarity": "common"
+  },
+  {
+    "id": "7",
+    "name": "Tal",
+    "rarity": "common"
+  },
+  {
+    "id": "8",
+    "name": "Ral",
+    "rarity": "common"
+  },
+  {
+    "id": "9",
+    "name": "Ort",
+    "rarity": "common"
+  },
+  {
+    "id": "10",
+    "name": "Thul",
+    "rarity": "common"
+  },
+  {
+    "id": "11",
+    "name": "Amn",
+    "rarity": "common"
+  },
+  {
+    "id": "12",
+    "name": "Sol",
+    "rarity": "rare"
+  },
+  {
+    "id": "13",
+    "name": "Shael",
+    "rarity": "rare"
+  },
+  {
+    "id": "14",
+    "name": "Dol",
+    "rarity": "rare"
+  },
+  {
+    "id": "15",
+    "name": "Hel",
+    "rarity": "rare"
+  },
+  {
+    "id": "16",
+    "name": "Io",
+    "rarity": "rare"
+  },
+  {
+    "id": "17",
+    "name": "Lum",
+    "rarity": "rare"
+  },
+  {
+    "id": "18",
+    "name": "Ko",
+    "rarity": "rare"
+  },
+  {
+    "id": "19",
+    "name": "Fal",
+    "rarity": "rare"
+  },
+  {
+    "id": "20",
+    "name": "Lem",
+    "rarity": "rare"
+  },
+  {
+    "id": "21",
+    "name": "Pul",
+    "rarity": "rare"
+  },
+  {
+    "id": "22",
+    "name": "Um",
+    "rarity": "rare"
+  },
+  {
+    "id": "23",
+    "name": "Mal",
+    "rarity": "very rare"
+  },
+  {
+    "id": "24",
+    "name": "Ist",
+    "rarity": "very rare"
+  },
+  {
+    "id": "25",
+    "name": "Gul",
+    "rarity": "very rare"
+  },
+  {
+    "id": "26",
+    "name": "Vex",
+    "rarity": "very rare"
+  },
+  {
+    "id": "27",
+    "name": "Ohm",
+    "rarity": "very rare"
+  },
+  {
+    "id": "28",
+    "name": "Lo",
+    "rarity": "very rare"
+  },
+  {
+    "id": "29",
+    "name": "Sur",
+    "rarity": "very rare"
+  },
+  {
+    "id": "30",
+    "name": "Ber",
+    "rarity": "very rare"
+  },
+  {
+    "id": "31",
+    "name": "Jah",
+    "rarity": "very rare"
+  },
+  {
+    "id": "32",
+    "name": "Cham",
+    "rarity": "very rare"
+  },
+  {
+    "id": "33",
+    "name": "Zod",
+    "rarity": "very rare"
+  }
+]
