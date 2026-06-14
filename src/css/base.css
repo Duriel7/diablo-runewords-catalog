@@ -26,12 +26,24 @@ button {
 .second {
     display: flex;
     margin-top: 0.5rem;
-    padding: 1rem;
+    padding: 0.5rem;
     border: 3px solid #000;
 }
 
 .third {
     padding: 0.5rem;
+    border: 1px solid #000;
+}
+
+.fourth {
+    display: flex;
+    border: 1px solid #000;
+}
+.fourth>div {
+    flex: 1;
+}
+.fourth>div>p {
+    padding: 0.2rem;
     border: 1px solid #000;
 }
 
