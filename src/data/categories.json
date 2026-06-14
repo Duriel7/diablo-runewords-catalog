@@ -44,6 +44,10 @@
     "name": "Orbe"
   },
   {
+    "id": "grimoire",
+    "name": "Grimoire"
+  },
+  {
     "id": "scepter",
     "name": "Sceptre"
   },
