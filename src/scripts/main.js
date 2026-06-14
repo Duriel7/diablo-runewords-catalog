@@ -1,4 +1,6 @@
 const categoriesData = fetch("src/data/categories.json");
+const runeData = fetch("src/data/runes.json");
+const socketsData = fetch("src/data/sockets.json");
 
 categoriesData
   .then((response) => {
@@ -9,6 +11,32 @@ categoriesData
     categories.forEach((category) => {
       const p = document.createElement("p");
       p.textContent = category.name;
+      container.appendChild(p);
+    });
+  });
+
+runeData
+  .then((response) => {
+    return response.json();
+  })
+  .then((runes) => {
+    const container = document.getElementById("runes-panel");
+    runes.forEach((rune) => {
+      const p = document.createElement("p");
+      p.textContent = rune.name;
+      container.appendChild(p);
+    });
+  });
+
+socketsData
+  .then((response) => {
+    return response.json();
+  })
+  .then((sockets) => {
+    const container = document.getElementById("sockets-panel");
+    sockets.forEach((socket) => {
+      const p = document.createElement("p");
+      p.textContent = `${socket.name} (${socket.number})`;
       container.appendChild(p);
     });
   });
