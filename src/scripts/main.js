@@ -1,7 +1,4 @@
 const categoriesData = fetch("src/data/categories.json");
-const runeData = fetch("src/data/runes.json");
-const socketsData = fetch("src/data/sockets.json");
-
 categoriesData
   .then((response) => {
     return response.json();
@@ -15,6 +12,7 @@ categoriesData
     });
   });
 
+const runeData = fetch("src/data/runes.json");
 runeData
   .then((response) => {
     return response.json();
@@ -28,6 +26,7 @@ runeData
     });
   });
 
+const socketsData = fetch("src/data/sockets.json");
 socketsData
   .then((response) => {
     return response.json();
@@ -42,7 +41,6 @@ socketsData
   });
 
 const runewordsData = fetch("src/data/runewords.json");
-
 runewordsData
   .then((response) => {
     return response.json();
