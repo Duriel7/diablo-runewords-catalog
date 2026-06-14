@@ -2,10 +2,41 @@ main {
     display: flex;
 }
 
-section {
+.overtop {
     flex: 1;
     padding: 1rem;
+    margin-right: 0.2rem;
+    margin-left: 0.2rem;
     border: 3px solid #000;
+}
+
+.first {
+    padding: 1rem;
+    border: 3px solid #000;
+}
+
+.second {
+    display: flex;
+    margin-top: 0.5rem;
+    padding: 1rem;
+    border: 3px solid #000;
+}
+
+.third {
+    padding: 0.5rem;
+    border: 1px solid #000;
+}
+
+.categories {
+    flex: 0.3;
+}
+
+.runes {
+    flex: 0.5;
+}
+
+.sockets {
+    flex: 0.2;
 }
 
 h2, h3 {
