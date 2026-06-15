@@ -64,3 +64,7 @@ button {
     justify-content: space-between;
     align-items: center;
 }
+
+#details-panel>div {
+    border: 1px solid #ff0000;
+}
