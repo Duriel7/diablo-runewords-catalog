@@ -3,24 +3,77 @@
     "id": "spirit",
     "name": "Esprit",
     "categories": ["sword", "shield"],
-    "runes": ["Tal", "Thul", "Ort", "Amn"]
+    "runes": ["Tal", "Thul", "Ort", "Amn"],
+    "mods": [
+      "+2 à toutes les compétences",
+      "+25-35% à la vitesse de lancer de sort",
+      "+55% à la vitesse de récupération après un coup",
+      "+22 en vitalité",
+      "+89-112 au mana",
+      "+3-8 en absorption à la magie",
+      "+250 en défense contre les missiles (uniquement bouclier)",
+      "+35% à la résistance au froid (uniquement bouclier)",
+      "+35% à la résistance à la foudre (uniquement bouclier)",
+      "+35% à la résistance au poison (uniquement bouclier)",
+      "L'attaquant encaisse des dégâts de 14 (uniquement bouclier)",
+      "+75 de dégâts de poison sur 5 secondes (uniquement épée)",
+      "+3-14 de dégâts de froid (uniquement épée)",
+      "+1-50 de dégâts de foudre (uniquement épée)",
+      "7% de vie volée par coup (uniquement épée)"
+    ]
   },
   {
     "id": "malice",
     "name": "Méchanceté",
     "categories": ["meleeweapon"],
-    "runes": ["Ith", "El", "Eth"]
+    "runes": ["Ith", "El", "Eth"],
+    "mods": [
+      "100% de chances de Blessures Ouvertes",
+      "-100 à la défense des monstres après chaque coup",
+      "Empêche le monstre de guérir",
+      "Draine la vie -5 (inverse de Régénération de la vie)",
+      "+33% de dégâts",
+      "-25% de défense à la cible",
+      "+50 au niveau d'attaque",
+      "+9 aux dégâts maximum"
+    ]
   },
   {
     "id": "dream",
     "name": "Rêve",
     "categories": ["helm", "barbarianhelm", "shield"],
-    "runes": ["Io", "Jah", "Pul"]
+    "runes": ["Io", "Jah", "Pul"],
+    "mods": [
+      "10% de chance de lancer le sort Embrouiller de niveau 15 en étant touché",
+      "Aura Choc de niveau 15 lorsque vous en êtes équipé",
+      "+20-30% à la récupération rapide après un coup",
+      "+30% en défense",
+      "+150-220 en défense",
+      "+10 en vitalité",
+      "+5% à la quantité maximale des points de vie",
+      "+0,625 à 61,875 de mana (en fonction du niveau du personnage)",
+      "+5-20 à toutes les résistances",
+      "+15-25% de chance d'obtenir des objets magiques"
+    ]
   },
   {
     "id": "grief",
     "name": "Corbeau Gelé",
     "categories": ["sword", "axe"],
-    "runes": ["Eth", "Tir", "Lo", "Mal", "Ral"]
+    "runes": ["Eth", "Tir", "Lo", "Mal", "Ral"],
+    "mods": [
+      "35% de chance de lancer un sort Venin de niveau 15 en frappant",
+      "+30-40% en vitesse d'attaque",
+      "+340-400 de dégâts",
+      "Ignore la défense de l'adversaire",
+      "-25% à la défense de la cible",
+      "+1,875% (par niveau de personnage) aux dégâts contre les démons",
+      "+5-30 de dégâts de feu",
+      "-20-25% à la résistance au poison de l'ennemi",
+      "20% de chance de faire un coup mortel",
+      "Empêche le monstre de se soigner",
+      "+2 en mana après chaque mort",
+      "+11 en vie après chaque mort"
+    ]
   }
 ]

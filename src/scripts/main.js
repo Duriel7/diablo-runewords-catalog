@@ -56,7 +56,8 @@ runewordsData
       button.textContent = runeword.name;
       container.appendChild(button);
       button.addEventListener("click", () => {
-        details.innerHTML = `<h3>${runeword.name} :</h3><p>${runeword.runes.join(", ")}</p>`;
+        details.innerHTML = `<h3>${runeword.name} :</h3><p>${runeword.runes.join(", ")}</p>
+        <p>${runeword.mods.join("<br>")}</p>`;
       });
     });
   });
