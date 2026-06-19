@@ -4,7 +4,7 @@
 
 Diablo Runewords Catalog is a direct listing of all existing Diablo II runewords. It is designed in mind to be the spiritual successor of the simple, yet effective tool called Runik, coded by Azgazarel for the French website JudgeHype.com.
 
->For now the tool is in French, but don't worry it will be translated in english later on.
+>For now the it is in French, but don't worry it will be translated in English later on.
 
 The catalog is designed in a straightforward HTML/CSS/JS way, able to be used completely offline.
 
@@ -45,11 +45,13 @@ I've integrated a small amount of data just to test out my proof of concept, and
 
 ## 🇫🇷 French version
 
-Diablo Runewords Catalog est une liste directe de tous les mots runiques existants dans Diablo II. Il est pensé dans l'essence pour être le successeur spirituel de l'outil simple mais efficace nommé Runik, codé par Azgazarel pour le site JudgeHype.com.
+Diablo Runewords Catalog est un catalogue comprenant tous les mots runiques existants dans Diablo II. Utilisable **complètement hors ligne**, il est pensé pour être le successeur spirituel de l'outil simple mais efficace nommé Runik, développé par Azgazarel pour le site JudgeHype.com. Il est construit de manière à devenir un **support décisionnel** pour tout joueur désirant trouver rapidement son information.
 
->Pour le moment l'outil reste en français, mais il sera traduit plus tard en anglais.
+>Pour le moment il reste en français, mais il sera traduit plus tard en anglais.
 
-Le catalogue est pensé dans un processus direct en HTML/CSS/JS, pour pouvoir être utilisé complètement hors ligne.
+Il repose sur une architecture HTML/CSS/JS simple, et utilise des fichiers JSON pour le stockage des données.
+
+Il est directement issu de ma frustration face aux outils similaires déjà disponibles, dont certains problèmes étaient pourtant résolus par Runik à l'époque. Devenu obsolète, celui-ci n'a pour le moment trouvé aucun remplaçant idéal. C'est la raison première de l'existence de cet outil.
 
 ### Pour en savoir plus
 
