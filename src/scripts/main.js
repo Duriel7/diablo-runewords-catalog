@@ -23,7 +23,9 @@ runeData
       const container = document.getElementById(rarity);
       const p = document.createElement("p");
       p.textContent = rune.name;
+      //const runeIcon = <img src="nom du fichier composé .png"></img>;
       container.appendChild(p);
+      //container.appendChild(runeIcon);
     });
   });
 
@@ -56,7 +58,10 @@ runewordsData
       button.textContent = runeword.name;
       container.appendChild(button);
       button.addEventListener("click", () => {
-        details.innerHTML = `<h3>${runeword.name} :</h3><p>${runeword.runes.join(", ")}</p>
+        details.innerHTML = `<h3>${runeword.name} :</h3>
+        <p>Ajouté en version ${runeword.version}</p>
+        <p>Requiert un personnage niveau ${runeword.level}</p>
+        <p>${runeword.runes.join(", ")}</p>
         <p>${runeword.mods.join("<br>")}</p>`;
       });
     });

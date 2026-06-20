@@ -64,7 +64,7 @@
     "level": 49,
     "categories": ["allweapons"],
     "runes": ["Tal", "Dol", "Mal"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "Le monstre touché s'enfuit (25%)",
@@ -82,7 +82,7 @@
     "level": 55,
     "categories": ["allweapons"],
     "runes": ["Dol", "Eld", "Hel", "Ist", "Tir", "Vex"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "+75% de dégâts contre les morts-vivants",
@@ -228,7 +228,7 @@
     "level": 15,
     "categories": ["meleeweapon"],
     "runes": ["Ith", "El", "Eth"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "100% de chances de Blessures Ouvertes",
@@ -247,7 +247,7 @@
     "level": 25,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "Tir"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "25% de chance de faire un coup cinglant",
@@ -264,7 +264,7 @@
     "level": 27,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "El", "Ith", "Tir", "Sol"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "+160% aux dégâts",
@@ -307,7 +307,7 @@
     "level": 63,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "Ber", "Ist", "Sol", "Sur"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "Indestructible",
@@ -330,7 +330,7 @@
     "level": 65,
     "categories": ["meleeweapon"],
     "runes": ["Jah", "Gul", "Eth"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "+209% de dégâts",
@@ -351,7 +351,7 @@
     "level": 21,
     "categories": ["missileweapon"],
     "runes": ["Ort", "Eth"],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [
       "7% de chance de lancer un sort Cyclone de niveau 1 lorsque vous êtes touché",
@@ -435,7 +435,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   },
@@ -445,7 +445,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   },
@@ -455,7 +455,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   },
@@ -465,7 +465,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   },
@@ -475,7 +475,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   },
@@ -485,7 +485,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   },
@@ -585,7 +585,7 @@
     "level": 0,
     "categories": [""],
     "runes": [""],
-    "version": "Originale",
+    "version": "originale",
     "ladder": false,
     "mods": [""]
   }
