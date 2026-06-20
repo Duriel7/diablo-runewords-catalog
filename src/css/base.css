@@ -1,3 +1,9 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 main {
   display: flex;
 }
@@ -76,7 +82,11 @@ button {
 }
 
 #runewords-panel {
-    flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#runewords-panel > button {
+  width: 11rem;
 }
 
 #common-runes,
