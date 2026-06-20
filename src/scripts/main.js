@@ -57,9 +57,13 @@ runewordsData
       const button = document.createElement("button");
       button.textContent = runeword.name;
       container.appendChild(button);
+      const version =
+        runeword.version == "original"
+          ? "Mot runique originel (1.07)"
+          : "Ajouté en version " + runeword.version;
       button.addEventListener("click", () => {
         details.innerHTML = `<h3>${runeword.name} :</h3>
-        <p>Ajouté en version ${runeword.version}</p>
+        <p>${version}</p>
         <p>Requiert un personnage niveau ${runeword.level}</p>
         <p>${runeword.runes.join(", ")}</p>
         <p>${runeword.mods.join("<br>")}</p>`;
