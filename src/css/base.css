@@ -66,10 +66,21 @@ button {
   align-items: center;
 }
 
+#details-panel {
+  justify-content: center;
+  text-align: center;
+}
+
 #details-panel > div {
   border: 1px solid #ff0000;
 }
 
 #runewords-panel {
     flex-wrap: wrap;
+}
+
+#common-runes,
+#rare-runes,
+#very-rare-runes > p {
+  text-align: center;
 }
