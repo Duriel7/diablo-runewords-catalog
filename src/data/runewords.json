@@ -1,15 +1,14 @@
 [
   {
     "id": "mania",
-    "name": "Mania ?",
+    "name": "Mania",
     "level": 39,
     "categories": ["allweapons"],
     "runes": ["Shael", "Ko", "Eld"],
     "version": "3.0",
-    "ladder": true,
     "mods": [
       "5% de chances de lancer Rapidité niveau 1 en touchant",
-      "Aura de Fanatisme niveau 1 en équipant",
+      "Aura de Fanatisme niveau 1 quand équipé",
       "+30% à la vitesse d'attaque",
       "+180-200% de dégâts supplémentaires",
       "+75% de dégâts contre les morts-vivants",
@@ -19,12 +18,11 @@
   },
   {
     "id": "hysteria",
-    "name": "Hystérie ?",
+    "name": "Hystérie",
     "level": 39,
     "categories": ["bodyarmor"],
     "runes": ["Shael", "Ko", "Eld"],
     "version": "3.0",
-    "ladder": true,
     "mods": [
       "+65% à la vitesse de marche/course",
       "+40% à la vitesse d'attaque",
@@ -42,7 +40,6 @@
     "categories": ["allweapons"],
     "runes": ["Dol", "Ort", "Eld", "Lem"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "+25% à la vitesse d'attaque",
       "+160-210% de dégâts",
@@ -64,8 +61,7 @@
     "level": 49,
     "categories": ["allweapons"],
     "runes": ["Tal", "Dol", "Mal"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "Le monstre touché s'enfuit (25%)",
       "Empêche le monstre de guérir",
@@ -82,8 +78,7 @@
     "level": 55,
     "categories": ["allweapons"],
     "runes": ["Dol", "Eld", "Hel", "Ist", "Tir", "Vex"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "+75% de dégâts contre les morts-vivants",
       "Les coups aveuglent la cible (33)",
@@ -107,7 +102,6 @@
     "categories": ["allweapons"],
     "runes": ["Amn", "Ral", "Mal", "Ist", "Ohm"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "+1 à toutes les compétences",
       "+40% en vitesse d'attaque",
@@ -129,7 +123,6 @@
     "categories": ["allweapons", "bodyarmor"],
     "runes": ["El", "Sol", "Dol", "Lo"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "20% de chance de lancer un sort Armure de Gel de niveau 15 en étant touché",
       "+25% à la vitesse de lancer de sort",
@@ -157,11 +150,10 @@
     "categories": ["allweapons", "shield"],
     "runes": ["Vex", "Vex", "Lo", "Jah"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "100% de chance de lancer un sort Flamboiement de niveau 40 lorsque vous montez de niveau",
       "40% de chance de lancer un sort Tempête de niveau 22 en touchant",
-      "Aura Rédemption de niveau 10 à 15 lorsque vous en êtes équipé",
+      "Aura Rédemption de niveau 10 à 15 quand équipé",
       "+350-400% de dégâts",
       "-28% à la résistance au feu de l'ennemi",
       "+10% en défense (uniquement bouclier)",
@@ -182,11 +174,10 @@
     "categories": ["allweapons"],
     "runes": ["Sur", "Cham", "Amn", "Lo"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "100% de chance de lancer un sort Flamboiement de niveau 36 lorsque vous montez de niveau",
       "100% de chance de lancer un sort Météore de niveau 48 lorsque vous mourez",
-      "Aura Feu Sacré de niveau 16 lorsque vous êtes équipé de l'objet",
+      "Aura Feu Sacré de niveau 16 quand équipé",
       "+33% en vitesse d'attaque",
       "+280-330% de dégâts",
       "Ignore la défense de l'adversaire",
@@ -204,7 +195,6 @@
     "categories": ["allweapons"],
     "runes": ["Vex", "Hel", "El", "Eld", "Zod", "Eth"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "50% de chance de lancer un sort Choc Empoisonné de niveau 20 lorsque vous tuez un ennemi",
       "Indestructible",
@@ -228,8 +218,7 @@
     "level": 15,
     "categories": ["meleeweapon"],
     "runes": ["Ith", "El", "Eth"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "100% de chances de Blessures Ouvertes",
       "-100 à la défense des monstres après chaque coup",
@@ -247,8 +236,7 @@
     "level": 25,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "Tir"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "25% de chance de faire un coup cinglant",
       "+35% de dégâts",
@@ -264,8 +252,7 @@
     "level": 27,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "El", "Ith", "Tir", "Sol"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "+160% aux dégâts",
       "+250 au niveau d'attaque",
@@ -287,7 +274,6 @@
     "categories": ["meleeweapon"],
     "runes": ["Sur", "El"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "10% de chance de lancer le sort Tornade de niveau 9 en touchant",
       "+20% à la vitesse de marche/course",
@@ -307,8 +293,7 @@
     "level": 63,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "Ber", "Ist", "Sol", "Sur"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "Indestructible",
       "+260-310% de dégâts",
@@ -330,8 +315,7 @@
     "level": 65,
     "categories": ["meleeweapon"],
     "runes": ["Jah", "Gul", "Eth"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "+209% de dégâts",
       "+40% à la vitesse d'attaque",
@@ -351,8 +335,7 @@
     "level": 21,
     "categories": ["missileweapon"],
     "runes": ["Ort", "Eth"],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [
       "7% de chance de lancer un sort Cyclone de niveau 1 lorsque vous êtes touché",
       "Marche/course améliorée de 25%",
@@ -371,9 +354,8 @@
     "categories": ["missileweapon"],
     "runes": ["Tir", "Tal", "Amn"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
-      "Sort Epines de niveau 15 lorsque vous en êtes équipé",
+      "Sort Epines de niveau 15 quand équipé",
       "+35% en vitesse d'attaque",
       "+320-380 de dégâts contre les démons",
       "+280% de dégâts contre les morts-vivants",
@@ -392,7 +374,6 @@
     "categories": ["missileweapon"],
     "runes": ["Shael", "Ko", "Nef"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "+300% de dégâts sur les morts-vivants",
       "+50% de dégâts",
@@ -412,9 +393,8 @@
     "categories": ["missileweapon"],
     "runes": ["Tir", "Ith", "Sol", "Ko"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
-      "Aura Vigueur de niveau 10 lorsque vous en êtes équipé",
+      "Aura Vigueur de niveau 10 quand équipé",
       "+200-275% de dégâts",
       "+9 aux dégâts minimum",
       "+9 aux dégâts maximum",
@@ -435,8 +415,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   },
   {
@@ -445,8 +424,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   },
   {
@@ -455,8 +433,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   },
   {
@@ -465,8 +442,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   },
   {
@@ -475,8 +451,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   },
   {
@@ -485,8 +460,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   },
   {
@@ -496,7 +470,6 @@
     "categories": ["sword", "shield"],
     "runes": ["Tal", "Thul", "Ort", "Amn"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "+2 à toutes les compétences",
       "+25-35% à la vitesse de lancer de sort",
@@ -522,10 +495,9 @@
     "categories": ["helm", "barbarianhelm", "shield"],
     "runes": ["Io", "Jah", "Pul"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "10% de chance de lancer le sort Embrouiller de niveau 15 en étant touché",
-      "Aura Choc de niveau 15 lorsque vous en êtes équipé",
+      "Aura Choc de niveau 15 quand équipé",
       "+20-30% à la récupération rapide après un coup",
       "+30% en défense",
       "+150-220 en défense",
@@ -543,7 +515,6 @@
     "categories": ["sword", "axe"],
     "runes": ["Eth", "Tir", "Lo", "Mal", "Ral"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "35% de chance de lancer un sort Venin de niveau 15 en touchant",
       "+30-40% en vitesse d'attaque",
@@ -566,7 +537,6 @@
     "categories": ["armor"],
     "runes": ["Jah", "Ith", "Ber"],
     "version": "1.10",
-    "ladder": false,
     "mods": [
       "+2 à toutes les compétences",
       "+45% à la vitesse de déplacement",
@@ -585,8 +555,7 @@
     "level": 0,
     "categories": [""],
     "runes": [""],
-    "version": "originale",
-    "ladder": false,
+    "version": "original",
     "mods": [""]
   }
 ]
