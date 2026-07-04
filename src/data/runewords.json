@@ -61,7 +61,7 @@
     "level": 49,
     "categories": ["allweapons"],
     "runes": ["Tal", "Dol", "Mal"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "Le monstre touché s'enfuit (25%)",
       "Empêche le monstre de guérir",
@@ -78,7 +78,7 @@
     "level": 55,
     "categories": ["allweapons"],
     "runes": ["Dol", "Eld", "Hel", "Ist", "Tir", "Vex"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "+75% de dégâts contre les morts-vivants",
       "Les coups aveuglent la cible (33)",
@@ -218,7 +218,7 @@
     "level": 15,
     "categories": ["meleeweapon"],
     "runes": ["Ith", "El", "Eth"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "100% de chances de Blessures Ouvertes",
       "-100 à la défense des monstres après chaque coup",
@@ -236,7 +236,7 @@
     "level": 25,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "Tir"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "25% de chance de faire un coup cinglant",
       "+35% de dégâts",
@@ -252,7 +252,7 @@
     "level": 27,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "El", "Ith", "Tir", "Sol"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "+160% aux dégâts",
       "+250 au niveau d'attaque",
@@ -293,7 +293,7 @@
     "level": 63,
     "categories": ["meleeweapon"],
     "runes": ["Amn", "Ber", "Ist", "Sol", "Sur"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "Indestructible",
       "+260-310% de dégâts",
@@ -315,7 +315,7 @@
     "level": 65,
     "categories": ["meleeweapon"],
     "runes": ["Jah", "Gul", "Eth"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "+209% de dégâts",
       "+40% à la vitesse d'attaque",
@@ -335,7 +335,7 @@
     "level": 21,
     "categories": ["missileweapon"],
     "runes": ["Ort", "Eth"],
-    "version": "original",
+    "version": "1.07",
     "mods": [
       "7% de chance de lancer un sort Cyclone de niveau 1 lorsque vous êtes touché",
       "Marche/course améliorée de 25%",
@@ -415,7 +415,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   },
   {
@@ -424,7 +424,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   },
   {
@@ -433,7 +433,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   },
   {
@@ -442,7 +442,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   },
   {
@@ -451,7 +451,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   },
   {
@@ -460,7 +460,7 @@
     "level": 0,
     "categories": ["missileweapon"],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   },
   {
@@ -555,7 +555,7 @@
     "level": 0,
     "categories": [""],
     "runes": [""],
-    "version": "original",
+    "version": "1.07",
     "mods": [""]
   }
 ]

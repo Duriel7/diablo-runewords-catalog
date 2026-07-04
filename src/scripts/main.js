@@ -49,18 +49,18 @@ runewordsData
     return response.json();
   })
   .then((runewords) => {
-    const container = document.getElementById("runewords-panel");
+    const runewordsListContainer = document.getElementById("runewords-panel");
     const detailsContainer = document.getElementById("details-panel");
     const details = document.createElement("div");
     detailsContainer.appendChild(details);
     runewords.forEach((runeword) => {
       const button = document.createElement("button");
       button.textContent = runeword.name;
-      container.appendChild(button);
+      runewordsListContainer.appendChild(button);
       const version =
-        runeword.version == "original"
-          ? "Mot runique originel (1.07)"
-          : "Ajouté en version " + runeword.version;
+        runeword.version == "1.07"
+          ? `Mot runique originel (${runeword.version})`
+          : `Ajouté en version ${runeword.version}`;
       button.addEventListener("click", () => {
         details.innerHTML = `<h3>${runeword.name} :</h3>
         <p>${version}</p>
