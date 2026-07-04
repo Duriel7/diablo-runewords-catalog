@@ -1,0 +1,112 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+main {
+  display: flex;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
+
+button {
+  margin: 0.2rem;
+}
+
+.overtop {
+  flex: 1;
+  padding: 1rem;
+  margin-right: 0.2rem;
+  margin-left: 0.2rem;
+  border: 3px solid #000;
+}
+
+.first {
+  padding: 1rem;
+  border: 3px solid #000;
+}
+
+.second {
+  display: flex;
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  border: 3px solid #000;
+}
+
+.third {
+  padding: 0.5rem;
+  border: 1px solid #000;
+}
+
+.fourth {
+  display: flex;
+  border: 1px solid #000;
+}
+.fourth > div {
+  flex: 1;
+}
+.fourth > div > p {
+  padding: 0.2rem;
+  border: 1px solid #000;
+}
+
+.categories {
+  flex: 0.3;
+}
+
+.runes {
+  flex: 0.5;
+}
+
+.sockets {
+  flex: 0.2;
+}
+
+.rune-headers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.active-filters-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.active-filters-panel > div {
+  display: flex;
+  flex-direction: row;
+}
+.active-filters-panel h3 {
+  margin: 0.2rem;
+}
+.active-filters-panel p {
+  margin: 0.2rem;
+}
+
+#details-panel {
+  justify-content: center;
+  text-align: center;
+}
+
+#details-panel > div {
+  border: 1px solid #ff0000;
+}
+
+#runewords-panel {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+#runewords-panel > button {
+  width: 11rem;
+}
+
+#common-runes,
+#rare-runes,
+#very-rare-runes > p {
+  text-align: center;
+}

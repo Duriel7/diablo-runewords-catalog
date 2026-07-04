@@ -1,0 +1,27 @@
+[
+  {
+    "id": "S2",
+    "name": "Deux",
+    "number": 2
+  },
+  {
+    "id": "S3",
+    "name": "Trois",
+    "number": 3
+  },
+  {
+    "id": "S4",
+    "name": "Quatre",
+    "number": 4
+  },
+  {
+    "id": "S5",
+    "name": "Cinq",
+    "number": 5
+  },
+  {
+    "id": "S6",
+    "name": "Six",
+    "number": 6
+  }
+]

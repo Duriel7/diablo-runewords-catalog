@@ -1,0 +1,561 @@
+[
+  {
+    "id": "mania",
+    "name": "Mania",
+    "level": 39,
+    "categories": ["allweapons"],
+    "runes": ["Shael", "Ko", "Eld"],
+    "version": "3.0",
+    "mods": [
+      "5% de chances de lancer Rapidité niveau 1 en touchant",
+      "Aura de Fanatisme niveau 1 quand équipé",
+      "+30% à la vitesse d'attaque",
+      "+180-200% de dégâts supplémentaires",
+      "+75% de dégâts contre les morts-vivants",
+      "+50 au score d'attaque contre les morts-vivants",
+      "+10 à la Dextérité"
+    ]
+  },
+  {
+    "id": "hysteria",
+    "name": "Hystérie",
+    "level": 39,
+    "categories": ["bodyarmor"],
+    "runes": ["Shael", "Ko", "Eld"],
+    "version": "3.0",
+    "mods": [
+      "+65% à la vitesse de marche/course",
+      "+40% à la vitesse d'attaque",
+      "+20% à la vitesse de récupération après un coup",
+      "+6 à Feinte",
+      "+10 à la Dextérité",
+      "Drain d'Endurance ralenti de 50%",
+      "+10 à toutes les résistances"
+    ]
+  },
+  {
+    "id": "passion",
+    "name": "Passion",
+    "level": 43,
+    "categories": ["allweapons"],
+    "runes": ["Dol", "Ort", "Eld", "Lem"],
+    "version": "1.10",
+    "mods": [
+      "+25% à la vitesse d'attaque",
+      "+160-210% de dégâts",
+      "+50-80% au niveau d'attaque",
+      "+75% de dégâts contre les morts-vivants",
+      "+50 au niveau d'attaque contre les morts-vivants",
+      "+1-50 de dégâts de foudre",
+      "+1 à Berserk",
+      "+1 à Ferveur",
+      "+10 aux coups qui aveuglent l'adversaire",
+      "25% de chance que le monstre touché s'enfuit",
+      "75% d'or en plus sur les monstres",
+      "12 charges du sort Coeur de Wolverine de niveau 3"
+    ]
+  },
+  {
+    "id": "venom",
+    "name": "Venin",
+    "level": 49,
+    "categories": ["allweapons"],
+    "runes": ["Tal", "Dol", "Mal"],
+    "version": "1.07",
+    "mods": [
+      "Le monstre touché s'enfuit (25%)",
+      "Empêche le monstre de guérir",
+      "Ignore la défense de la cible",
+      "7% de mana volé par coup",
+      "27 charges d'explosion empoisonnée de niveau 15",
+      "11 charges de Choc empoisonné de niveau 13",
+      "+273 de dégâts de poison sur 6 secondes"
+    ]
+  },
+  {
+    "id": "silence",
+    "name": "Silence",
+    "level": 55,
+    "categories": ["allweapons"],
+    "runes": ["Dol", "Eld", "Hel", "Ist", "Tir", "Vex"],
+    "version": "1.07",
+    "mods": [
+      "+75% de dégâts contre les morts-vivants",
+      "Les coups aveuglent la cible (33)",
+      "+20% à la vitesse de récupération après un coup",
+      "+2 à toutes les compétences",
+      "+200% de dégâts",
+      "11% de mana volé par coup",
+      "+75 à toutes les résistances",
+      "+20% à la vitesse d'attaque",
+      "+2 de mana après chaque mort",
+      "+50 au niveau d'attaque contre les morts-vivants",
+      "Le monstre touché s'enfuit (25%)",
+      "-20% aux conditions requises",
+      "30% de chances d'obtenir des objets magiques"
+    ]
+  },
+  {
+    "id": "calltoarms",
+    "name": "Cri de Ralliement",
+    "level": 57,
+    "categories": ["allweapons"],
+    "runes": ["Amn", "Ral", "Mal", "Ist", "Ohm"],
+    "version": "1.10",
+    "mods": [
+      "+1 à toutes les compétences",
+      "+40% en vitesse d'attaque",
+      "+250-290% de dégâts",
+      "+5-30 de dégâts de feu",
+      "7%de vie volée par coup",
+      "+2-6 à Commande de Bataille (+3 max pour le barbare)",
+      "+1-6 à Ordres de Bataille (+3 max pour le barbare)",
+      "+1-4 à Cri de Bataille (+3 max pour le barbare)",
+      "Empêche le monstre de se soigner",
+      "+12 à la régénération de la vie",
+      "+30% de chance de trouver des objets magiques"
+    ]
+  },
+  {
+    "id": "fortitude",
+    "name": "Fortitude",
+    "level": 50,
+    "categories": ["allweapons", "bodyarmor"],
+    "runes": ["El", "Sol", "Dol", "Lo"],
+    "version": "1.10",
+    "mods": [
+      "20% de chance de lancer un sort Armure de Gel de niveau 15 en étant touché",
+      "+25% à la vitesse de lancer de sort",
+      "+300% de dégâts",
+      "+200% en défense",
+      "+25-30 à toutes les résistances",
+      "12% des dégâts vont au mana",
+      "+1 au cercle de lumière",
+      "+9 aux dégâts minimum (arme)",
+      "+50 au niveau d'attaque (arme)",
+      "20% de chance de faire un coup mortel (arme)",
+      "25% de chance que le monstre se mette à fuir (arme)",
+      "+200% de défense (arme)",
+      "+15 en défense (armure)",
+      "+1-148,5 (en fonction du niveau du personnage) à la vie (armure)",
+      "+7 à la régénération de la vie (armure)",
+      "+5% à la résistance maximale à la foudre (armure)",
+      "Dégâts réduits de 7 (armure)"
+    ]
+  },
+  {
+    "id": "phoenix",
+    "name": "Phénix",
+    "level": 60,
+    "categories": ["allweapons", "shield"],
+    "runes": ["Vex", "Vex", "Lo", "Jah"],
+    "version": "1.10",
+    "mods": [
+      "100% de chance de lancer un sort Flamboiement de niveau 40 lorsque vous montez de niveau",
+      "40% de chance de lancer un sort Tempête de niveau 22 en touchant",
+      "Aura Rédemption de niveau 10 à 15 quand équipé",
+      "+350-400% de dégâts",
+      "-28% à la résistance au feu de l'ennemi",
+      "+10% en défense (uniquement bouclier)",
+      "+350-400 en défense contre les missiles",
+      "+50 en vie (uniquement bouclier)",
+      "+5 à la résistance maximale à la foudre (uniquement bouclier)",
+      "+10 à la résistance maximale au feu (uniquement bouclier)",
+      "+15-21 en absorption du feu (uniquement arme)",
+      "Ignore la défense de l'adversaire (uniquement arme)",
+      "14% de mana volé par coup (uniquement arme)",
+      "20% de chance de faire un coup mortel (uniquement arme)"
+    ]
+  },
+  {
+    "id": "handofjustice",
+    "name": "Glaive de la Justice",
+    "level": 67,
+    "categories": ["allweapons"],
+    "runes": ["Sur", "Cham", "Amn", "Lo"],
+    "version": "1.10",
+    "mods": [
+      "100% de chance de lancer un sort Flamboiement de niveau 36 lorsque vous montez de niveau",
+      "100% de chance de lancer un sort Météore de niveau 48 lorsque vous mourez",
+      "Aura Feu Sacré de niveau 16 quand équipé",
+      "+33% en vitesse d'attaque",
+      "+280-330% de dégâts",
+      "Ignore la défense de l'adversaire",
+      "7% de vie volée par coup",
+      "-20% à la résistance au feu de l'ennemi",
+      "20% de chance de faire un coup mortel",
+      "Les coups aveuglent l'adversaire",
+      "Gèle l'adversaire +3"
+    ]
+  },
+  {
+    "id": "breathofthedying",
+    "name": "Souffle des Mourants",
+    "level": 69,
+    "categories": ["allweapons"],
+    "runes": ["Vex", "Hel", "El", "Eld", "Zod", "Eth"],
+    "version": "1.10",
+    "mods": [
+      "50% de chance de lancer un sort Choc Empoisonné de niveau 20 lorsque vous tuez un ennemi",
+      "Indestructible",
+      "+60% en vitesse d'attaque",
+      "+350-400% de dégâts",
+      "+200% de dégâts contre les morts-vivants",
+      "-25% à la défense de la cible",
+      "+50 au niveau d'attaque",
+      "+50 au niveau d'attaque contre les morts-vivants",
+      "7% de mana volé par coup",
+      "12-15% de vie volée par coup",
+      "Empêche le monstre de se soigner",
+      "+30 à tous les attributs",
+      "+1 au cercle de lumière",
+      "-20% aux conditions requises"
+    ]
+  },
+  {
+    "id": "malice",
+    "name": "Méchanceté",
+    "level": 15,
+    "categories": ["meleeweapon"],
+    "runes": ["Ith", "El", "Eth"],
+    "version": "1.07",
+    "mods": [
+      "100% de chances de Blessures Ouvertes",
+      "-100 à la défense des monstres après chaque coup",
+      "Empêche le monstre de guérir",
+      "Draine la vie -5 (inverse de Régénération de la vie)",
+      "+33% de dégâts",
+      "-25% de défense à la cible",
+      "+50 au niveau d'attaque",
+      "+9 aux dégâts maximum"
+    ]
+  },
+  {
+    "id": "strength",
+    "name": "Force",
+    "level": 25,
+    "categories": ["meleeweapon"],
+    "runes": ["Amn", "Tir"],
+    "version": "1.07",
+    "mods": [
+      "25% de chance de faire un coup cinglant",
+      "+35% de dégâts",
+      "+10 en vitalité",
+      "+20 en force",
+      "7% de vie volée par coup",
+      "+2 de mana après chaque mort"
+    ]
+  },
+  {
+    "id": "honor",
+    "name": "Honneur",
+    "level": 27,
+    "categories": ["meleeweapon"],
+    "runes": ["Amn", "El", "Ith", "Tir", "Sol"],
+    "version": "1.07",
+    "mods": [
+      "+160% aux dégâts",
+      "+250 au niveau d'attaque",
+      "25% de chance de faire un coup mortel",
+      "+1 à toutes les compétences",
+      "+10 en régénération à la vie",
+      "+10 en force",
+      "+7% de vie volée par coup",
+      "+9 aux dégâts minimum",
+      "+9 aux dégâts maximum",
+      "+1 à la portée lumineuse",
+      "+2 au mana après chaque mort"
+    ]
+  },
+  {
+    "id": "wind",
+    "name": "Vent",
+    "level": 61,
+    "categories": ["meleeweapon"],
+    "runes": ["Sur", "El"],
+    "version": "1.10",
+    "mods": [
+      "10% de chance de lancer le sort Tornade de niveau 9 en touchant",
+      "+20% à la vitesse de marche/course",
+      "+40% à la vitesse d'attaque",
+      "+15% à la vitesse de récupération après un coup",
+      "+120-160% de dégâts",
+      "-50% à la défense de la cible",
+      "+53 au niveau d'attaque",
+      "Les coups aveuglent l'adversaire",
+      "+1 à la portée lumineuse",
+      "127 charges du sort Cyclone de niveau 13"
+    ]
+  },
+  {
+    "id": "eternity",
+    "name": "Éternité",
+    "level": 63,
+    "categories": ["meleeweapon"],
+    "runes": ["Amn", "Ber", "Ist", "Sol", "Sur"],
+    "version": "1.07",
+    "mods": [
+      "Indestructible",
+      "+260-310% de dégâts",
+      "+9 aux dégâts minimum",
+      "7% de vie volée par coup",
+      "20% de chance de faire un coup cinglant",
+      "Les coups aveuglent l'adversaire",
+      "Ralenti la cible de 33%",
+      "+16% à la régénération du mana",
+      "Régénère la vitalité +16",
+      "Ne peut pas être immobilisé",
+      "+30% de chance de trouver des objets magiques",
+      "88 charges du sort Ressusciter de niveau 8"
+    ]
+  },
+  {
+    "id": "fury",
+    "name": "Fureur",
+    "level": 65,
+    "categories": ["meleeweapon"],
+    "runes": ["Jah", "Gul", "Eth"],
+    "version": "1.07",
+    "mods": [
+      "+209% de dégâts",
+      "+40% à la vitesse d'attaque",
+      "Empêche le monstre de guérir",
+      "66% de chances de blessures ouvertes",
+      "33% de chances de coup mortel",
+      "Ignore la défense de la cible",
+      "-25% à la défense de la cible",
+      "+20% au niveau d'attaque",
+      "+6% de vie volée par coup",
+      "+5 à Frénésie (barbare seulement)"
+    ]
+  },
+  {
+    "id": "zephyr",
+    "name": "Zéphyr",
+    "level": 21,
+    "categories": ["missileweapon"],
+    "runes": ["Ort", "Eth"],
+    "version": "1.07",
+    "mods": [
+      "7% de chance de lancer un sort Cyclone de niveau 1 lorsque vous êtes touché",
+      "Marche/course améliorée de 25%",
+      "+33% de dégâts",
+      "+25 en défense",
+      "+66 au niveau d'attaque",
+      "+25% de vitesse d'attaque",
+      "-25% à la défense de la cible",
+      "+1-50 de dégâts de foudre"
+    ]
+  },
+  {
+    "id": "edge",
+    "name": "Arête",
+    "level": 25,
+    "categories": ["missileweapon"],
+    "runes": ["Tir", "Tal", "Amn"],
+    "version": "1.10",
+    "mods": [
+      "Sort Epines de niveau 15 quand équipé",
+      "+35% en vitesse d'attaque",
+      "+320-380 de dégâts contre les démons",
+      "+280% de dégâts contre les morts-vivants",
+      "+75 de dégâts de poison sur 5 secondes",
+      "+7% de vie volée par coup",
+      "Empêche le monstre de se soigner",
+      "+5-10 à tous les attributss",
+      "+2 au mana après chaque mort",
+      "Réduit les prix auprès des vendeurs de 15%"
+    ]
+  },
+  {
+    "id": "melody",
+    "name": "Mélodie",
+    "level": 39,
+    "categories": ["missileweapon"],
+    "runes": ["Shael", "Ko", "Nef"],
+    "version": "1.10",
+    "mods": [
+      "+300% de dégâts sur les morts-vivants",
+      "+50% de dégâts",
+      "+3 aux compétences arcs et arbalètes",
+      "+3 à la compétence Ralentir Missiles",
+      "+3 à la compétence Esquive",
+      "+3 à la compétence Coup critique",
+      "+10 en dextérité",
+      "+20% en vitesse d'attaque",
+      "Riposter"
+    ]
+  },
+  {
+    "id": "harmony",
+    "name": "Harmonie",
+    "level": 39,
+    "categories": ["missileweapon"],
+    "runes": ["Tir", "Ith", "Sol", "Ko"],
+    "version": "1.10",
+    "mods": [
+      "Aura Vigueur de niveau 10 quand équipé",
+      "+200-275% de dégâts",
+      "+9 aux dégâts minimum",
+      "+9 aux dégâts maximum",
+      "+55-160 de dégâts de feu",
+      "+55-160 de dégâts de foudre",
+      "+55-160 de dégâts de froid",
+      "+2-6 à Walkyrie",
+      "+10 en dextérité",
+      "+20% à la régénération du mana",
+      "+2 en mana après chaque mort",
+      "+2 au cercle de lumière",
+      "25 charges du sort Ressusciter de niveau 20"
+    ]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": ["missileweapon"],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": ["missileweapon"],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": ["missileweapon"],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": ["missileweapon"],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": ["missileweapon"],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": ["missileweapon"],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  },
+  {
+    "id": "spirit",
+    "name": "Esprit",
+    "level": 25,
+    "categories": ["sword", "shield"],
+    "runes": ["Tal", "Thul", "Ort", "Amn"],
+    "version": "1.10",
+    "mods": [
+      "+2 à toutes les compétences",
+      "+25-35% à la vitesse de lancer de sort",
+      "+55% à la vitesse de récupération après un coup",
+      "+22 en vitalité",
+      "+89-112 au mana",
+      "+3-8 en absorption à la magie",
+      "+250 en défense contre les missiles (uniquement bouclier)",
+      "+35% à la résistance au froid (uniquement bouclier)",
+      "+35% à la résistance à la foudre (uniquement bouclier)",
+      "+35% à la résistance au poison (uniquement bouclier)",
+      "L'attaquant encaisse des dégâts de 14 (uniquement bouclier)",
+      "+75 de dégâts de poison sur 5 secondes (uniquement épée)",
+      "+3-14 de dégâts de froid (uniquement épée)",
+      "+1-50 de dégâts de foudre (uniquement épée)",
+      "7% de vie volée par coup (uniquement épée)"
+    ]
+  },
+  {
+    "id": "dream",
+    "name": "Rêve",
+    "level": 65,
+    "categories": ["helm", "barbarianhelm", "shield"],
+    "runes": ["Io", "Jah", "Pul"],
+    "version": "1.10",
+    "mods": [
+      "10% de chance de lancer le sort Embrouiller de niveau 15 en étant touché",
+      "Aura Choc de niveau 15 quand équipé",
+      "+20-30% à la récupération rapide après un coup",
+      "+30% en défense",
+      "+150-220 en défense",
+      "+10 en vitalité",
+      "+5% à la quantité maximale des points de vie",
+      "+0,625 à 61,875 de mana (en fonction du niveau du personnage)",
+      "+5-20 à toutes les résistances",
+      "+15-25% de chance d'obtenir des objets magiques"
+    ]
+  },
+  {
+    "id": "grief",
+    "name": "Corbeau Gelé",
+    "level": 59,
+    "categories": ["sword", "axe"],
+    "runes": ["Eth", "Tir", "Lo", "Mal", "Ral"],
+    "version": "1.10",
+    "mods": [
+      "35% de chance de lancer un sort Venin de niveau 15 en touchant",
+      "+30-40% en vitesse d'attaque",
+      "+340-400 de dégâts",
+      "Ignore la défense de l'adversaire",
+      "-25% à la défense de la cible",
+      "+1,875% (par niveau de personnage) aux dégâts contre les démons",
+      "+5-30 de dégâts de feu",
+      "-20-25% à la résistance au poison de l'ennemi",
+      "20% de chance de faire un coup mortel",
+      "Empêche le monstre de se soigner",
+      "+2 en mana après chaque mort",
+      "+11 en vie après chaque mort"
+    ]
+  },
+  {
+    "id": "enigma",
+    "name": "Énigme",
+    "level": 65,
+    "categories": ["armor"],
+    "runes": ["Jah", "Ith", "Ber"],
+    "version": "1.10",
+    "mods": [
+      "+2 à toutes les compétences",
+      "+45% à la vitesse de déplacement",
+      "+1 à Téléport",
+      "+750-775 en défense",
+      "+(0,75 par niveau de personnage) 0 - 74 en force",
+      "+5% au maximum de points de vie",
+      "Réduit les dégâts de 8%",
+      "+14 de vie par mort",
+      "+(1 par niveau de personnage) 1 - 99% de chance de trouver des objets magiques"
+    ]
+  },
+  {
+    "id": "",
+    "name": "",
+    "level": 0,
+    "categories": [""],
+    "runes": [""],
+    "version": "1.07",
+    "mods": [""]
+  }
+]
